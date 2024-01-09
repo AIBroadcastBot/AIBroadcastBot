@@ -19,4 +19,7 @@
 - Simply send any text to @AIBroadcastBot and receive an audio file back in moments.
 - Elevate your Telegram channel to the next level by making @AIBroadcastBot an admin, granting posting permissions and then forwarding any message to it – the bot will seamlessly convert and post audio versions of all newly appeared messages in your channels.
 
+**What to do?**
+- Visit https://aibroadcast.cc/ for detailed info
+- Start the text-to-speech Telegram bot immediately: https://t.me/AIBroadcastBot/
 
